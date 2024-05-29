@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\RateLimiting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116028FF-9E47-42C3-B8C0-2675848A4682}|RateLimiting\\RateLimiting.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\ratelimiting\\ratelimiting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116028FF-9E47-42C3-B8C0-2675848A4682}|RateLimiting\\RateLimiting.csproj|solutionrelative:ratelimiting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116028FF-9E47-42C3-B8C0-2675848A4682}|RateLimiting\\RateLimiting.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\ratelimiting\\ratelimiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116028FF-9E47-42C3-B8C0-2675848A4682}|RateLimiting\\RateLimiting.csproj|solutionrelative:ratelimiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\RateLimiting\\RateLimiting\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RateLimiting\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\RateLimiting\\RateLimiting\\Controllers\\WeatherForecastController.cs*",
+              "RelativeToolTip": "RateLimiting\\Controllers\\WeatherForecastController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:05:45.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\RateLimiting\\RateLimiting\\Program.cs",
+              "RelativeDocumentMoniker": "RateLimiting\\Program.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\RateLimiting\\RateLimiting\\Program.cs",
+              "RelativeToolTip": "RateLimiting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:04:32.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
